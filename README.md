@@ -16,4 +16,4 @@ Web is wonderful.
 
 Text is plain.
 
-* [Revive Awka](https://github.com/noyesno/revive-awka) - Translate Awk Script into C code
+* [Revive Awka](https://github.com/noyesno/awka) - Translate Awk Script into C code
